@@ -772,27 +772,16 @@ Recommended evidence:
 
 | Screenshot | Evidence |
 
-|---|---|
-
-| `jenkins-success.png` | Successful Jenkins pipeline, including the test, build, and push stages |
-
-| `dockerhub-frontend.png` | Published frontend image and tags |
-
-| `dockerhub-backend.png` | Published backend image and tags |
-
-| `vagrant-vm.png` | Running Vagrant VM |
-
-| `ansible-success.png` | Successful Ansible provisioning and final play recap |
-
-| `docker-containers.png` | Running frontend and backend containers |
-
-| `application-browser.png` | Ma Garderie application open in a browser |
-
-
-
-Capture these screenshots from the actual tools and application. Add them to `screenshots/` and commit them to GitHub.
-
-
+![alt text](<test front.png>)
+![alt text](<docker compose up.png>)
+![alt text](<accessibility check.jpeg>)
+![alt text](<jenkins pipeline success.png>)
+![alt text](<images pushed to docker hub.png>)
+![alt text](<vm creation with vagant success.png>)
+![alt text](<provision success.png>)
+![alt text](<verification of the installation after provisioning.png>)
+![alt text](<deployment success.png>)
+![alt text](<app access from provisioned vm.png>)
 
 \## Git Workflow
 
